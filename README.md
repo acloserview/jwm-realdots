@@ -21,6 +21,6 @@
  
 #screenshots 
 
-<a href = "https://raw.githubusercontent.com/siduck765/jwm-realdots/main/jwm-simple.png">
+<img src = "https://raw.githubusercontent.com/siduck765/jwm-realdots/main/jwm-simple.png">
  
 
