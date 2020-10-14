@@ -4,7 +4,7 @@
 
 1. git clone https://github.com/siduck765/jwm-realdots.git 
 
-2. .jwmrc is the config file so move it in your home folder .
+2. .jwmrc is the config file so move it in your home folder . ( change xst to your term in this file )
 
 3.  download the gtk theme from https://www.gnome-look.org/p/1280977/ , ( juno.tarz is the file ).
 
