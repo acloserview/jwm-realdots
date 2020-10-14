@@ -10,7 +10,7 @@
 
 4.  move the rofi / picom / polybar folder in ~/.config folder , which is in your home folder 
 
-# I use oranchelo icons for rofi 
+// i use oranchelo icons for rofi 
 
 5.  git clone https://github.com/OrancheloTeam/oranchelo-icon-theme.git && cd oranchelo-icon-theme/  && sudo make install 
 
