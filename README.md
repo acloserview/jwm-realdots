@@ -14,7 +14,7 @@
 
 5.  git clone https://github.com/OrancheloTeam/oranchelo-icon-theme.git && cd oranchelo-icon-theme/  && sudo make install 
 
-6. install iosevka font from your repo !
+6. install iosevka font from your repo / san fransisco (apple font) for the poly 
 
 7. copy all the fonts from material fonts folder to your ~/.local/share/fonts folder and do fc-cache -fv .
  
